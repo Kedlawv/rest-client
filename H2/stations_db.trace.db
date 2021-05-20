@@ -1,0 +1,15 @@
+2021-02-16 17:53:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STATION" not found; SQL statement:
+select station0_.id as id1_2_, station0_.address_street as address_2_2_, station0_.city_id as city_id6_2_, station0_.gegr_lat as gegr_lat3_2_, station0_.gegr_lon as gegr_lon4_2_, station0_.station_name as station_5_2_ from station station0_ [42102-200]
+2021-02-16 17:57:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STATION" not found; SQL statement:
+select station0_.id as id1_2_, station0_.address_street as address_2_2_, station0_.city_id as city_id6_2_, station0_.gegr_lat as gegr_lat3_2_, station0_.gegr_lon as gegr_lon4_2_, station0_.station_name as station_5_2_ from station station0_ [42102-200]
+2021-02-16 17:57:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STATION" not found; SQL statement:
+select station0_.id as id1_2_, station0_.address_street as address_2_2_, station0_.city_id as city_id6_2_, station0_.gegr_lat as gegr_lat3_2_, station0_.gegr_lon as gegr_lon4_2_, station0_.station_name as station_5_2_ from station station0_ [42102-200]
+2021-02-16 18:01:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STATION" not found; SQL statement:
+select station0_.id as id1_2_, station0_.address_street as address_2_2_, station0_.city_id as city_id6_2_, station0_.gegr_lat as gegr_lat3_2_, station0_.gegr_lon as gegr_lon4_2_, station0_.station_name as station_5_2_ from station station0_ [42102-200]
+2021-02-16 18:01:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMMUNE" not found; SQL statement:
+select commune0_.id as id1_1_, commune0_.commune_name as commune_2_1_, commune0_.district_name as district3_1_, commune0_.province_name as province4_1_ from commune commune0_ where commune0_.commune_name=? [42102-200]
